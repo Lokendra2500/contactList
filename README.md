@@ -1,18 +1,13 @@
-# angular-seed — the seed for AngularJS apps
+# contactList - A test application for firebase database connection
 
-This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
-You can use it to quickly bootstrap your angular webapp projects and dev environment for these
-projects.
+This project is an test application for firebase connection. This application is the complete guide for establishing the connection wiht firebase.
 
-The seed contains a sample AngularJS application and is preconfigured to install the Angular
-framework and a bunch of development and testing tools for instant web development gratification.
-
-The seed app doesn't do much, just shows how to wire two controllers and views together.
+In this application we use angularjs for view development and node server as a server.
 
 
 ## Getting Started
 
-To get you started you can simply clone the angular-seed repository and install the dependencies:
+To get you started you can simply clone the contactList repository and install the dependencies:
 
 ### Prerequisites
 
